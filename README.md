@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joseph NTADI
+=====================================================================================================================================
 
-<!--
-**HeadStone7/HeadStone7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developper and UI/UX designer
+--------------------------------------
 
-Here are some ideas to get you started:
+I’m Joseph, a passionate pianist and guitarist who brings the same rhythm and precision to code. With a deep enthusiasm for computer technology, I specialize in creating deterministic user experiences through thoughtful design and robust development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My mission: Transform clunky manual systems into seamless, automated solutions that prioritize the user every step of the way. Whether it’s building responsive web/apps or optimizing workflows.
+
+Currently exploring React, React Native, and more – always open to collaboration!
+
+Let’s make things that just feel right ♫💻
+
+*   ✉️  You can contact me at [https://www.linkedin.com/in/marrion-joseph-ntadi/](mailto:https://www.linkedin.com/in/marrion-joseph-ntadi/)
+*   🧠  I'm currently learning 🎓 Currently digging into mobile UX design + fintech apps 🤖 Exploring AI tools and blockchain applications — always up for sharing notes and swapping ideas
+*   👥  I'm looking to collaborate on open source projects
+
+                ### Socials
+                
+                <p align="left"> <a href="https://www.github.com/https://github.com/HeadStone7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/marrion-joseph-ntadi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
